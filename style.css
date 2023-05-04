@@ -46,6 +46,7 @@ main h2 {
   font-weight: bold;
   color: #333;
   margin-bottom: 20px;
+  background-color: black;
 }
 
 main p {
