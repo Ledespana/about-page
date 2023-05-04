@@ -1,5 +1,5 @@
 /* Reset default styles */
-/* `* {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -12,32 +12,32 @@ body {
 }
 
 /* Add some padding to the page */
-/* .container {
+.container {
   max-width: 800px;
   margin: 0 auto;
   padding: 40px;
 }
 
 /* Style the header */
-/* header {
+header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-} */
+}
 
-/* header h1 {
+header h1 {
   font-size: 36px;
   font-weight: bold;
   color: #333;
-} */
+}
 
-/* header a {
+header a {
   text-decoration: none;
   color: #333;
-} */
+}
 
 /* Style the main content */
-/* main {
+main {
   margin-top: 40px;
 }
 
@@ -46,16 +46,16 @@ main h2 {
   font-weight: bold;
   color: #333;
   margin-bottom: 20px;
-} */
+}
 
-/* main p {
+main p {
   font-size: 18px;
   line-height: 1.5;
   color: #666;
-} */
+}
 
 /* Style the footer */
-/* footer {
+footer {
   margin-top: 40px;
   text-align: center;
   color: #999;
@@ -64,4 +64,3 @@ main h2 {
 footer a {
   color: #999;
 }
-` */
